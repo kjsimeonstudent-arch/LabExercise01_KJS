@@ -57,6 +57,7 @@ TEMPLATES = [
         'DIRS': [
             BASE_DIR / 'templates',
             BASE_DIR / 'homepageKJS' / 'templates',
+            BASE_DIR / 'saleapp' / 'templates',
         ],
         'APP_DIRS': True,
         'OPTIONS': {
